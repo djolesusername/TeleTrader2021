@@ -1,0 +1,17 @@
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  min-width: 40px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+table {
+  table-layout: fixed;
+  width: 90%;
+  margin: 0 auto;
+  align-content: center;
+}
