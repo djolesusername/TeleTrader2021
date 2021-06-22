@@ -1,6 +1,6 @@
-##Demo
+## Demo
 
-[Demo link] (https://suspicious-ardinghelli-c5f270.netlify.app/)
+[Demo link](https://suspicious-ardinghelli-c5f270.netlify.app/)
 
 ## Features
 
